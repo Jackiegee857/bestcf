@@ -1,17 +1,10 @@
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>503 first byte timeout</title>
-  </head>
-  <body>
-    <h1>Error 503 first byte timeout</h1>
-    <p>first byte timeout</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-chi-kmdw8640034-CHI 1786977643 680336318</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
+104.16.249.191
+104.17.30.118
+104.18.44.195
+104.17.23.52
+162.159.82.241
+104.18.47.198
+104.20.51.242
+104.20.57.102
+104.20.59.202
+104.17.145.246
